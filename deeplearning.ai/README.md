@@ -12,6 +12,7 @@ CNN architechture and reference.
 5. Softmax activation
 
 Loss = categorical_crossentropy
+Optimizer = Adam
 
 ## Dataset
 [download dataset](https://www.dropbox.com/sh/k796u1a6p0p8gmq/AADL-1ZQJwwRBwhkSY9rJWy5a?dl=0) 
