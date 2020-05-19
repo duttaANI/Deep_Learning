@@ -11,6 +11,11 @@ CNN architechture and reference.
 4. Dense layer
 5. Softmax activation
 
+Loss = categorical_crossentropy
+
+## Dataset
+[download dataset](https://www.dropbox.com/sh/k796u1a6p0p8gmq/AADL-1ZQJwwRBwhkSY9rJWy5a?dl=0) 
+
 ## References
 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
